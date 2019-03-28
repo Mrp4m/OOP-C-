@@ -1,0 +1,6 @@
+E:\B O O T C A M P\VISUALSTUDIO\Day2 OOP\Day2 OOP\bin\Debug\Day2 OOP.exe.config
+E:\B O O T C A M P\VISUALSTUDIO\Day2 OOP\Day2 OOP\bin\Debug\Day2 OOP.exe
+E:\B O O T C A M P\VISUALSTUDIO\Day2 OOP\Day2 OOP\bin\Debug\Day2 OOP.pdb
+E:\B O O T C A M P\VISUALSTUDIO\Day2 OOP\Day2 OOP\obj\Debug\Day2 OOP.exe
+E:\B O O T C A M P\VISUALSTUDIO\Day2 OOP\Day2 OOP\obj\Debug\Day2 OOP.pdb
+E:\B O O T C A M P\VISUALSTUDIO\Day2 OOP\Day2 OOP\obj\Debug\Day2 OOP.csprojResolveAssemblyReference.cache
